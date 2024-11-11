@@ -1,5 +1,5 @@
 <div align="center">
-# Hola, mi nombre es Manuel Gómez👋
+<h1>Hola, mi nombre es Manuel Gómez👋</h1>
 </div>
 <br>
 <details open>
