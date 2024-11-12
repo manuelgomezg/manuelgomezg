@@ -4,19 +4,20 @@
 
 #
 <div align="center">
-  <p>Aconpañame en esta aventura de descubrir que dicen los datos y mostras los resultados de una manera didactica y facil de comprender.
+  <p>⚡Aconpañame en esta aventura de descubrir que dicen los datos y mostras los resultados de una manera didactica y facil de comprender.
   <br>
   🚀Me apasiona la tecnologia en particular los datos y la programación web.</p>
 </div>
-
+<br>
 
 ## 🏆 Metas:
 
 - 🚀 Deseo seguir mejorando en el diseño y modelado de las **Bases de datos** con los ultimos estandares.
 - 🌐 Consolidar mis conocimientos en la correcta manupilacion de los datos.
 - 🎨 Seguir creciendo profesionalmente por el sueño de ser Cientifico de Datos.
+<br>
 
-## 🏆 Tecnologías:
+## 🤖 Tecnologías:
 
 <details open>
 <summary><b>🗄️ Database</b></summary>
