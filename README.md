@@ -1,14 +1,14 @@
 ### Hola, soy Manuel Gómez👋
 ![MANUEL GÓMEZok](https://github.com/user-attachments/assets/4647bd0d-22ad-4df6-81ab-daeb1e68dce6)
 <br>
+
 #
 <div align="center">
   <p>Aconpañame en esta aventura de descubrir que dicen los datos y mostras los resultados de una manera didactica y facil de comprender.
+  <br>
   🚀Me apasiona la tecnologia en particular los datos y la programación web.</p>
 </div>
 
-
-#
 
 ## 🏆 Metas:
 
@@ -16,6 +16,7 @@
 - 🌐 Consolidar mis conocimientos en la correcta manupilacion de los datos.
 - 🎨 Seguir creciendo profesionalmente por el sueño de ser Cientifico de Datos.
 
+## 🏆 Tecnologías:
 
 <details open>
 <summary><b>🗄️ Database</b></summary>
