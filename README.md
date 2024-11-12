@@ -2,6 +2,7 @@
 <h1>Hola, mi nombre es Manuel Gómez👋</h1>
 </div>
 <br>
+https://github.com/manuelgomezg/manuelgomezg/issues/1#issue-2650705162
 <details open>
 <summary><b>🗄️ Database</b></summary>
 <br>
