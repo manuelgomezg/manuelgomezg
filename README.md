@@ -1,5 +1,5 @@
 ### Hola, soy Manuel Gómez👋
-![MANUEL GÓMEZok](https://github.com/user-attachments/assets/4647bd0d-22ad-4df6-81ab-daeb1e68dce6)
+![MANUEL GÓMEZok](https://github.com/manuelgomezg/manuelgomezg/issues/3#issue-2718867214)
 <br>
 
 #
