@@ -4,7 +4,7 @@
 
 #
 <div align="center">
-  <p>⚡Acompañame en esta aventura de descubrir lo que quieren decir los datos y mostras los resultados de una manera didactica y facil de comprender.
+  <p>⚡Sigueme en esta aventura de descubrir que quieren decirnos los datos y mostrar los resultados de una manera didactica y facil de comprender.
   <br>
   🚀Me apasiona la tecnologia en particular los datos y la programación web.</p>
 </div>
